@@ -1,4 +1,4 @@
-Week 1-2: Strengthening Core Front-End & JavaScript Concepts
+# Week 1-2: Strengthening Core Front-End & JavaScript Concepts
 
 Goal: Master JavaScript, React, and Front-End Performance
 
@@ -40,7 +40,7 @@ Practice
 ✅ Build a mini React app (e.g., a job board, task manager, or dashboard).
 ✅ Solve 5-6 JavaScript/React-based problems on LeetCode daily.
 
-Week 3-4: Data Structures & Algorithms (DSA)
+# Week 3-4: Data Structures & Algorithms (DSA)
 
 Goal: Be comfortable with problem-solving under time constraints.
 
@@ -61,7 +61,7 @@ Practice
 ✅ Review and implement sorting algorithms from scratch.
 ✅ Mock Interviews on Pramp or Interviewing.io
 
-Week 5-6: System Design & Architecture
+# Week 5-6: System Design & Architecture
 
 Goal: Design scalable, performant web applications.
 
@@ -92,7 +92,7 @@ Practice
 ✅ Design an E-commerce or Social Media App from scratch.
 ✅ Mock System Design interviews with peers (use Excalidraw for diagrams).
 
-Week 7-8: Mock Interviews & Behavioral Preparation
+# Week 7-8: Mock Interviews & Behavioral Preparation
 
 Goal: Apply everything you've learned under real interview conditions.
 
