@@ -6,7 +6,7 @@ Topics to Cover
 
 JavaScript:
 
-Closures, Hoisting, Event Loop, Promises, Async/Await
+Closures✅, Hoisting✅, Event Loop✅, Promises✅, Async/Await✅
 Prototypes, this keyword, Call, Apply, Bind
 Debouncing & Throttling
 Functional Programming (map, reduce, filter)
